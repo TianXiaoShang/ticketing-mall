@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello'
+				title: '初始化票务小程序，框架搭建中...'
 			}
 		},
 		onLoad() {
